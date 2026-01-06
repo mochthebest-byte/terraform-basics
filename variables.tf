@@ -1,9 +1,9 @@
 variable "filename" {
-  description = "Name of the file to create"
-  type        = string
+  type    = string
+  default = "hello.txt"
 }
 
 variable "content" {
-  description = "Content of the file"
-  type        = string
+  type    = string
+  default = "State test"
 }

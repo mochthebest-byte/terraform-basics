@@ -9,3 +9,7 @@
 - tfvars for environment values
 - Outputs
 - Clean IaC structure
+## Day 20
+- Terraform state fundamentals
+- Local vs remote state
+- Best practices and common mistakes
